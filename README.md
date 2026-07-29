@@ -1,2 +1,2 @@
 # 26Rc_Drone_Dropping_Challenge
-2026Robocup无人机挑战赛投掷赛道
+2026Robocup无人机挑战赛投掷赛道，老机型的一些代码解释以及其针对2026赛制的拓新
